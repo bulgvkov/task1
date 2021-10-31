@@ -12,9 +12,13 @@
 4. Выдача результата по принципу:
 > сгенерированный и алгоритмом и введённый пользователем
 ключи совпадают – TRUE->поздравление или доступ к какой
-либо информации
+либо информации.
 > Не совпадают – ошибка
-## Features
+
+## Суть работы программы
+Валидные данные для ввода:
+* validlogin
+* validpassword
 * FTP passive mode 
 * Filesystem browsing commands (pwd, cd, ls, rm,)
 * Downloading/uploading files in binary stream mode
